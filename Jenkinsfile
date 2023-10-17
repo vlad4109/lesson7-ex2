@@ -8,5 +8,11 @@ pipeline {
                 bat 'dir'
             }
         }
+        stage('Bye') {
+            steps {
+                
+                bat 'dir'
+            }
+        }
     }
 }
