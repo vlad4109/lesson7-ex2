@@ -1,1 +1,2 @@
 My name is Vlad and my email password is 123
+Jenkins connection test
